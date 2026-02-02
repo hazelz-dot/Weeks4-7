@@ -270,6 +270,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 80142605223775138}
+  - component: {fileID: 7889311206201276012}
   m_Layer: 0
   m_Name: tank
   m_TagString: Untagged
@@ -295,3 +296,15 @@ Transform:
   - {fileID: 7239503230709441249}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7889311206201276012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5999935726526353157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172762a7f07686049bbd6a5ddbd5b952, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
